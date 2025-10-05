@@ -1,0 +1,22 @@
+.customizeContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  margin-top: 20px;
+}
+.customizeContainerTwo{
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head{
+
+
+    h1{
+        font-size: 40px;  color: #0B2749;
+    }
+}
